@@ -1,4 +1,4 @@
-# 🔤 Hands-on TrOCR: From English Inference to Hindi LoRA Finetuning
+# Hands-on TrOCR: From English Inference to Indic LoRA Finetuning
 
 > A 4-part deep dive into Microsoft's **TrOCR** (Transformer-based OCR) — from zero-shot English inference to building a custom **Indic-TrOCR** for Hindi, and achieving state-of-the-art results with **LoRA finetuning** on multi-GPU using **Accelerate + DDP**.
 
